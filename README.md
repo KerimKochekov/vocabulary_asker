@@ -1,5 +1,5 @@
-# Bocabulary Asker
-Simple app for asking memorized words in shuffled order
+# Vocabulary Asker
+Simple app for asking memorized words in shuffled order with the help of Python library Tkinter (https://docs.python.org/3/library/tkinter.html)
 
 ### Requirements
 ```
