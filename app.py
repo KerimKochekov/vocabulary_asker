@@ -7,6 +7,8 @@ with open('data.txt') as f:
     for line in f.readlines():
         if len(data) == 25:
             break
+        if line.find('-') == -1:
+            continue
         word, meaning = line.split('-')
         data.append((word[:-1], meaning[1:-1]))
 
