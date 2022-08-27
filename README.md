@@ -1,4 +1,4 @@
-# Vocabulary Asker
+Sleepless nights in exam weeks# Vocabulary Asker
 Simple app for asking memorized words in shuffled order with the help of Python library Tkinter (https://docs.python.org/3/library/tkinter.html)
 
 ### Requirements
@@ -8,14 +8,14 @@ Simple app for asking memorized words in shuffled order with the help of Python 
 - Tkinter
 ```
 
-### How to use? 
-Input your words into data.txt with single dash seperated form of original word and description and run app.py with following command.
+### How to use it? 
+Input your words into data.txt with a single dash separated form of original word and description and run app.py with the following command.
 ```
 $ python3 app.py
 ```
 
 ### Limitations
-Currently app limited with 25 words, which is going to be extended in the next versions.
+Currently, the app is limited to 25 words, which will be extended in the next versions.
 
 ### Todo
-Add button for listening pronunciations of words in English voice.
+Add a button for listening to pronunciations of words in English voice.
