@@ -1,0 +1,5 @@
+hello - salam
+good - gou
+bad - yaman
+important - gerekli
+maybe - belki
