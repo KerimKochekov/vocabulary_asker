@@ -50,8 +50,8 @@ class Table:
 class app:
     def __init__(self):
         self.root = Tk()
-        self.image = Image.open(f"idol{random.randint(0,1)}.jpg")
-        self.image = self.image.resize((200, 200), Image.ANTIALIAS)
+        self.image = Image.open(f"pp.jpeg")
+        self.image = self.image.resize((200, 270), Image.ANTIALIAS)
         self.image = ImageTk.PhotoImage(self.image)
         print(self.image.width(), self.image.height())
         self.answers = []
@@ -70,7 +70,7 @@ class app:
         app_height = 820
         screen_width = self.root.winfo_screenwidth()
         screen_height = self.root.winfo_screenheight()
-        x = (screen_width/2)-(app_width/2)
+        x = (screen_width/3)-(app_width/2)
         y = (screen_height/2)-(app_height/2)
         self.root.geometry(f'{app_width}x{app_height}+{int(x)}+{int(y)}')
         self.root.configure(bg="#ab9cf7")
@@ -207,3 +207,4 @@ class app:
         # self.exit_button.place(relx = 0.45, rely = 0.8)
 
 task = app()
+

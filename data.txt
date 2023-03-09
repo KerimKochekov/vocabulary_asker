@@ -1,5 +1,20 @@
-hello - salam
-good - gou
-bad - yaman
-important - gerekli
-maybe - belki
+assert - iddia etmek
+proposal - anlasma
+overwhelmed - bunalmish
+affordable - uygun fiyatlı
+grunt - homurtu
+incident - olay
+preach - vaaz vermek
+frightened- korkmush
+deceive - aldatmak, kandirmak
+inevitable - kacinilmaz, beklenen
+clasp - kavrama
+abandon - vazgecmek
+abandoned - terk edilme
+astonishing - şaşırtıcı
+endure - katlanmak
+betrayed - ihanet etmek
+obey - itaat etmek
+confession - itiraf 
+slander - iftira
+indignation - ofke(haksizlik karshisinda)
